@@ -1,0 +1,50 @@
+export const userData = [
+    {name: 'JAN', "Active User": 4000,},
+    {name: 'FEB', "Active User": 3000,},
+    {name: 'MAR', "Active User": 2000,},
+    {name: 'APR', "Active User": 2780,},
+    {name: 'MAY', "Active User": 1890,},
+    {name: 'JUN', "Active User": 2390,},
+    {name: 'JUL', "Active User": 3490,},
+    {name: 'AUG', "Active User": 3000,},
+    {name: 'SEP', "Active User": 5590,},
+    {name: 'OCT', "Active User": 1490,},
+    {name: 'NOV', "Active User": 4490,},
+    {name: 'DES', "Active User": 2490,},
+  ];
+export const productData = [
+    {name: 'JAN', "Sales": 4000,},
+    {name: 'FEB', "Sales": 3000,},
+    {name: 'MAR', "Sales": 2000,},
+  ];
+
+export const userRows = [
+    { id: 1, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 2, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 3, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 4, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 5, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 6, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 7, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 8, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 9, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 10, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 11, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+    { id: 12, username: 'Jon Snow', avatar: "https://cdn.britannica.com/96/177096-138-2CB46AEC/discussion-organ-systems-human-body-another-influence.jpg?w=800&h=450&c=crop", email: "jon@mail.com", status: "active", tranjaction: "120.00"},
+  ];
+export const productRows = [
+    { id: 1, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 2, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 3, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 4, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 5, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 6, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 7, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 8, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 9, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 10, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 11, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 12, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 13, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+    { id: 14, name: 'iphone', img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 150, status: "active", price: "120.00"},
+  ];
